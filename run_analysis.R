@@ -1,5 +1,4 @@
 
-##setwd("c:/work/data scientist/course 3 - peer assignment/UCI HAR Dataset")
 
 ########################################################################33
 ## Prepare activity and feature data
